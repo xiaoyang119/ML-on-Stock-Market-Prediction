@@ -1,0 +1,15 @@
+{
+  "feature_cols": [
+    "ma_ratio",
+    "momentum5",
+    "momentum20",
+    "rsi14",
+    "macd",
+    "macd_signal",
+    "bb_position",
+    "volume_zscore",
+    "overnight_gap",
+    "vix"
+  ],
+  "target_col": "target"
+}
